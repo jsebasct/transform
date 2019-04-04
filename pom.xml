@@ -22,5 +22,6 @@
   
   <modules>
     <module>transformer_jar</module>
+    <module>transformer_webapp</module>
   </modules>
 </project>
